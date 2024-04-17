@@ -11,6 +11,7 @@ npm i -g yarn
 
 ```bash
 yarn install or yarn add
+npm install or npm i
 ```
 
 ### Is Runing The Project
